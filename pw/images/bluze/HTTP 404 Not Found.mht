@@ -1,0 +1,940 @@
+From: "Saved by Internet Explorer 11"
+Subject: HTTP 404 Not Found
+Date: Tue, 23 Oct 2018 12:42:00 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0000_01D46ACD.CAE0FF50"
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: res://ieframe.dll/http_404.htm
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" =
+"http://www.w3.org/TR/html4/loose.dtd"><HTML=20
+dir=3D"ltr"><HEAD><META content=3D"IE=3D11.0000" =
+http-equiv=3D"X-UA-Compatible">
+         <LINK href=3D"res://ieframe.dll/ErrorPageTemplate.css" =
+rel=3D"stylesheet"=20
+type=3D"text/css">        =20
+<META http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3DUTF-8">        =20
+<TITLE>HTTP 404 Not Found</TITLE>        =20
+<SCRIPT language=3D"javascript" =
+src=3D"res://ieframe.dll/errorPageStrings.js" =
+type=3D"text/javascript"></SCRIPT>
+        =20
+<SCRIPT language=3D"javascript" =
+src=3D"res://ieframe.dll/httpErrorPagesScripts.js" =
+type=3D"text/javascript"></SCRIPT>
+    =20
+<META name=3D"GENERATOR" content=3D"MSHTML 11.00.10570.1001"></HEAD>     =
+
+<BODY onload=3D"javascript:initHomepage(); expandCollapse('infoBlockID', =
+true); initGoBack(); initMoreInfo('infoBlockID');">
+<TABLE width=3D"730" border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0"><!-- Error title -->=20
+             =20
+  <TBODY>
+  <TR>
+    <TD width=3D"60" align=3D"left" id=3D"infoIconAlign" valign=3D"top"=20
+      rowspan=3D"2"><IMG id=3D"infoIcon" alt=3D"Info icon" =
+src=3D"res://ieframe.dll/info_48.png">=20
+                      </TD>
+    <TD width=3D"*" align=3D"left" id=3D"mainTitleAlign" =
+valign=3D"middle">
+      <H1 id=3D"mainTitle">The webpage cannot be found</H1></TD></TR>
+  <TR><!-- This row is for HTTP status code, as well as the divider-->   =
+     =20
+           =20
+    <TD align=3D"right" class=3D"errorCodeAndDivider" =
+id=3D"http404Align"><id id=3D"http404">&nbsp;HTTP=20
+      404</id>                    =20
+      <DIV class=3D"divider"></DIV></TD></TR><!-- Error Body -->         =
+   =20
+  <TR>
+    <TD>                    &nbsp;                </TD>
+    <TD align=3D"left" id=3D"likelyCausesAlign" valign=3D"top">
+      <H3 id=3D"likelyCauses">Most likely causes:</H3>
+      <UL>
+        <LI id=3D"causeErrorInAddress">There might be a typing error in =
+the=20
+        address.</LI>
+        <LI id=3D"causeLinkOutOfDate">If you clicked on a link, it may =
+be out of=20
+        date.</LI></UL></TD></TR><!-- What you can do -->            =20
+  <TR>
+    <TD>                    &nbsp;                </TD>
+    <TD align=3D"left" id=3D"whatToTryAlign" valign=3D"top">
+      <H2 id=3D"whatToTry">What you can try:</H2></TD></TR><!-- retype =
+address -->    =20
+         =20
+  <TR>
+    <TD>                    &nbsp;                </TD>
+    <TD align=3D"left" id=3D"retypeAddressAlign" valign=3D"middle">
+      <H4>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD valign=3D"top"><IMG class=3D"actionIcon" alt=3D"" =
+src=3D"res://ieframe.dll/bullet.png"=20
+            border=3D"0">                               </TD>
+          <TD valign=3D"top"><id id=3D"retypeAddress">Retype the =
+address.</id>    =20
+                                      =
+</TD></TR></TBODY></TABLE></H4></TD></TR><!-- back to previous page -->=20
+             =20
+  <TR>
+    <TD>                    &nbsp;                </TD>
+    <TD align=3D"left" id=3D"goBackAlign" valign=3D"middle">
+      <H4>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD valign=3D"top"><IMG class=3D"actionIcon" alt=3D"" =
+src=3D"res://ieframe.dll/bullet.png"=20
+            border=3D"0">                               </TD>
+          <TD valign=3D"top"><SPAN =
+id=3D"goBackContainer"></SPAN><NOSCRIPT id=3D"goBack">Go=20
+            back to the previous page.</NOSCRIPT>                        =
+      =20
+          </TD></TR></TBODY></TABLE></H4></TD></TR><!-- top level =
+domain-->            =20
+  <TR>
+    <TD>                    &nbsp;                </TD>
+    <TD align=3D"left" id=3D"mainSiteAlign" valign=3D"middle">
+      <H4>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD valign=3D"top"><IMG class=3D"actionIcon" alt=3D"" =
+src=3D"res://ieframe.dll/bullet.png"=20
+            border=3D"0">                               </TD>
+          <TD valign=3D"top"><id id=3D"mainSite1">Go to </id><SPAN =
+id=3D"homepageContainer"><NOSCRIPT=20
+            id=3D"mainSite2">the main site</NOSCRIPT></SPAN><id=20
+            id=3D"mainSite3">&nbsp;and look for the information you =
+want.</id>    =20
+                                      =
+</TD></TR></TBODY></TABLE></H4></TD></TR><!-- InfoBlock -->=20
+             =20
+  <TR>
+    <TD align=3D"right" id=3D"infoBlockAlign" valign=3D"top">            =
+       =20
+      &nbsp;                </TD>
+    <TD align=3D"left" id=3D"moreInfoAlign" valign=3D"middle">
+      <H4>
+      <TABLE>
+        <TBODY>
+        <TR>
+          <TD valign=3D"top"><A =
+onclick=3D"javascript:expandCollapse('infoBlockID', true); return =
+false;"=20
+            href=3D"res://ieframe.dll/http_404.htm#"><IMG =
+class=3D"actionIcon" id=3D"infoBlockIDImage"=20
+            alt=3D"More information" src=3D"res://ieframe.dll/down.png"=20
+            border=3D"0"></A>                             </TD>
+          <TD valign=3D"top"><SPAN id=3D"moreInfoContainer"></SPAN>      =
+         =20
+                            <NOSCRIPT>&lt;ID =
+id=3D"moreInformation"&gt;More=20
+            information&lt;/ID&gt;</NOSCRIPT>                            =
+=20
+        </TD></TR></TBODY></TABLE></H4>
+      <DIV class=3D"infoBlock" id=3D"infoBlockID">
+      <P id=3D"errorExplanation">This error (HTTP 404 Not Found) means =
+that=20
+      Internet Explorer was able to connect to the website, but the page =
+you=20
+      wanted was not found. It=E2=80=99s possible that the webpage is =
+temporarily=20
+      unavailable. Alternatively, the website might have changed or =
+removed the=20
+      webpage.</P>
+      <P id=3D"moreInfoSeeHelp">For more information about HTTP errors, =
+see=20
+      Help.</P></DIV></TD></TR></TBODY></TABLE></BODY></HTML>
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: res://ieframe.dll/info_48.png
+
+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
+AElFTkSuQmCC
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: res://ieframe.dll/bullet.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAAA3lBMVEX///8oRWtGUnAmQGUmQGUp
+QWYpQWdBTmpCTmpETmpETmoyVnYtWHotWXszWHlDXH1FX4AyaokzbIs4cJc3cZk7ap87bKJaaoZc
+bIc1b603cas8i6phd5s8jaxkep5FpMWJmbqKmrucqcoRMcsNQME3oNl+iu2Dj+q2vv8KOb4LOr4O
+LsoOQcMOQsMPRcMaOc0bOs0dYb8dY70dYr8fZ74jTdclT9gjcskjc8klec0yjL00j7wrisotjcs/
+rdFArdA7quFwkONzk+WFkepHyPFIyPJN1f6esfCgsvK7wf67emARAAAAI3RSTlMAAAATFRkVGBsX
+GoSGioyJj8XKy9LN1I6R7+rOzNDP7dfY7rUvLKkAAABtSURBVHhenc5DAsNgFADh2KrNH7FT2rj/
+hbp5J8jsvt0wNeLU3ny56GscWB5/vJ/3nSpg+0bdh0vvDrizSlGIsnUXPIx9nOAgGoBbVbnZbfOi
+DdYPJ3Ilx70FlhqX1/t5bopgljdGs4kpsDXe/2LxC3JYqVSBAAAAAElFTkSuQmCC
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: res://ieframe.dll/down.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAMAAAAMCGV4AAABj1BMVEX///8fV6gfV6gfV6gfV6gf
+V6gfV6gfV6gfV6gfV6gfV6gfV6gfV6gfV6hVgL2hudq51eru8vn7/P0fV6gfV6ghWakjWqkkXKsn
+Xas8crY9c7dQgL1RgL1RgL5VhMBvoM9wotBypNF4qdN6qdR+rdWRttucvt+aweGWx+Skv9+nwuCf
+zeamzOaqzOew0uq31uzG1OnI1eq/3fC+6PXF7vjc9Pnd9PkAAmKr2u3S6/jR7PfZ8vng9vvt+Pzw
++v3x+v2XxuOezOafzOagzuei0umj0eqn1eqn1eup1uyp1u2v1Oqs2O2t2u3///6t2u6w3e+w3++3
+2u6w4O+42u6z3vGy3/Gy4PGz3/G93/HB3fC55PK+4PG55fLC3vHH4/K96vXD5vS+6vbE5/TK5PTK
+5fTL5vTB7ffL5vXC7vfI6vbM5/bP6PbQ6fbH8PnQ6/fU7fjV7vjN9fvN9vzW8PnX8PnX8fnR9/zR
++Pzc9Pnc9Prc9fvc9vze9vvf9vvf9vzf9v3p9vvu+v3v+v3q//////8kh4JzAAAAN3RSTlMAYZlv
+KCwMcw6nm6tlHLrU4/b9cSqsrK2tu7q6ur+/1eHV4dXU4eH2/dvb/fb2/fbi4/39/ff3n0a+WgAA
+ANVJREFUeF4lj1OjxEAYQ7+Zam3vpW1UaxuXtm0bP3w77XnKyVMCBIbDRux0gQaLLOP2f/uYBbFE
+zT6ro0xwWD1mxU393+GfSDQa+Q0PmADo5j3x/vk9FPp4eRBbaKC6N8+u5NfPrzf5+ryHAjy8ccRr
+SKejGPQjK/uXqt5JBxN6wL2F+vK2oie7a3NDGKi2WDyVK/HVSj6d6KCA9vclM0JtcWFWyA4GaADU
+Wpxf3To83llfakcAoPN2Tl7cPD7dTnW5dUAKFLTN/E3bmtT92j+D0cAxRBptfilzONbvJgAAAABJ
+RU5ErkJggg==
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: text/css;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: res://ieframe.dll/ErrorPageTemplate.css
+
+body {
+	color: rgb(87, 87, 87); font-family: "Segoe UI", "verdana", "arial"; =
+margin-top: 20px; margin-left: 20px; background-image: =
+url("background_gradient.jpg"); background-repeat: repeat-x; =
+background-color: rgb(232, 234, 239);
+}
+body.securityError {
+	font-family: "Segoe UI", "verdana" , "Arial"; margin-top: 20px; =
+margin-left: 20px; background-image: url("background_gradient_red.jpg"); =
+background-repeat: repeat-x; background-color: rgb(232, 234, 239);
+}
+body.tabInfo {
+	background-image: none; background-color: rgb(244, 244, 244);
+}
+a {
+	color: rgb(19, 112, 171); font-size: 1em; font-weight: normal; =
+text-decoration: none; margin-left: 0px; vertical-align: top;
+}
+a:link {
+	color: rgb(19, 112, 171); text-decoration: none; vertical-align: top;
+}
+a:visited {
+	color: rgb(19, 112, 171); text-decoration: none; vertical-align: top;
+}
+a:hover {
+	color: rgb(7, 74, 229); text-decoration: underline;
+}
+p {
+	font-size: 0.9em;
+}
+h1 {
+	color: rgb(68, 101, 162); font-size: 1.1em; font-weight: normal; =
+margin-top: 7px; margin-bottom: 4px; vertical-align: bottom;
+}
+h2 {
+	font-size: 0.9em; font-weight: normal; margin-top: 20px; margin-bottom: =
+1px;
+}
+h3 {
+	font-size: 0.9em; font-weight: normal; margin-top: 10px; margin-bottom: =
+1px;
+}
+h4 {
+	font-size: 0.9em; font-weight: normal; margin-top: 12px; margin-bottom: =
+1px;
+}
+h5 {
+	color: rgb(87, 87, 87); font-size: 0.9em; font-weight: normal; =
+margin-top: 1px; margin-bottom: 0px;
+}
+.actionIcon {
+	margin-top: 0px; margin-right: 6px; vertical-align: middle;
+}
+.infoBlock {
+	color: rgb(87, 87, 87); padding-left: 25px; font-size: 0.9em; display: =
+block;
+}
+.errorCodeAndDivider {
+	color: rgb(120, 120, 120); font-size: 0.7em; font-weight: normal;
+}
+ul {
+	line-height: 1.3em; padding-top: 1px; padding-bottom: 1px; font-size: =
+0.9em; margin-top: 1px; margin-bottom: 1px; list-style-position: =
+outside;
+}
+ol {
+	line-height: 1.3em; padding-top: 1px; padding-bottom: 1px; font-size: =
+0.9em; margin-top: 1px; margin-bottom: 1px; list-style-position: =
+outside;
+}
+.divider {
+	border-bottom-color: rgb(182, 188, 198); border-bottom-width: 1px; =
+border-bottom-style: solid;
+}
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: res://ieframe.dll/errorPageStrings.js
+
+=EF=BB=BF//Split out for localization.
+var L_GOBACK_TEXT =3D "Go back to the previous page.";
+var L_REFRESH_TEXT =3D "Refresh the page.";
+var L_MOREINFO_TEXT =3D "More information";
+var L_OFFLINE_USERS_TEXT =3D "For offline users";
+var L_RELOAD_TEXT =3D "Retype the address.";
+var L_HIDE_HOTKEYS_TEXT =3D "Hide tab shortcuts";
+var L_SHOW_HOTKEYS_TEXT =3D "Show more tab shortcuts";
+var L_CONNECTION_OFF_TEXT =3D "You are not connected to the Internet. =
+Check your Internet connection.";
+var L_CONNECTION_ON_TEXT =3D "It appears you are connected to the =
+Internet, but you might want to try to reconnect to the Internet.";
+
+//used by invalidcert.js and hstscerterror.js
+var L_CertUnknownCA_TEXT =3D "Your PC doesn\u2019t trust this =
+website\u2019s security certificate.";
+var L_CertExpired_TEXT =3D "The website\u2019s security certificate is =
+not yet valid or has expired.";
+var L_CertCNMismatch_TEXT =3D "The hostname in the website\u2019s =
+security certificate differs from the website you are trying to visit.";
+var L_CertRevoked_TEXT =3D "This website\u2019s security certificate has =
+been revoked, so you can\u2019t go there at this time.";
+var L_CertSigFailed_TEXT =3D "The website\u2019s security certificate is =
+not secure.";
+var L_CertWeakSignature_TEXT =3D "The website\u2019s security =
+certificate has a weak signature and is not secure.";
+
+var L_PhishingThreat_TEXT =3D "Phishing threat: This is a phishing =
+website that impersonates a trusted website to trick you into revealing =
+personal or financial information.";
+var L_MalwareThreat_TEXT =3D "Malicious software threat: This site =
+contains links to viruses or other software programs that can reveal =
+personal information stored or typed on your computer to malicious =
+persons.";
+
+var L_PUAATitle_TEXT =3D "Reported Website: Navigation Cancelled";
+
+var L_TopFrameUnsafe_TEXT =3D "This website has been reported as =
+unsafe";
+var L_TopFrameUnwanted_TEXT =3D "Be careful when downloading programs =
+from this website";
+var L_ContentUnsafe_TEXT =3D "Content on this website has been reported =
+as unsafe";
+var L_Content_TEXT =3D "Hosted by:  ";
+
+var L_ACR_Title_TEXT =3D "We were unable to return you to %s.";
+var L_ACR_TitleFallback_TEXT =3D "We were unable to return you to the =
+page you were viewing.";
+var L_ACR_ReturnTo_TEXT =3D "Try to return to %s";
+var L_ACR_ReturnToFallback_TEXT =3D "Try to return to the page you were =
+viewing";
+var L_ACR_GoHome_TEXT =3D "Go to your home page";
+
+//used by new dnserror.htm
+var L_INTERNET_NOT_CONNECTED_TEXT =3D "You\u2019re not connected to a =
+network";
+var L_INTERNET_CONNECTED_TEXT =3D "Can\u2019t reach this page";
+
+var L_RESOURCE_NOT_FOUND_TEXT =3D "This website could not be found.";
+var L_RESOURCE_NOT_FOUND_WSAECONNRESET_TEXT =3D "The DNS server refused =
+the connection.";
+var L_RESOURCE_NOT_FOUND_ERROR_TIMEOUT_TEXT =3D "The connection to the =
+DNS server timed out.";
+var L_RESOURCE_NOT_FOUND_ERROR_SUCCESS_TEXT =3D "There was a temporary =
+DNS error. Try refreshing the page.";
+var L_RESOURCE_NOT_FOUND_RCODE_NAME_ERROR_TEXT =3D "The DNS name does =
+not exist.";
+var L_RESOURCE_NOT_FOUND_ERROR_OTHER_TEXT =3D "The DNS server might be =
+having problems.";
+
+var L_DOWNLOAD_FAILURE_TEXT =3D "The connection to the website was =
+reset.";
+var L_REDIRECT_FAILED_TEXT =3D "There were too many redirections.";
+var L_CONNECTION_TIMEOUT_TEXT =3D "It took too long to connect to this =
+website.";
+var L_DATA_NOT_AVAILABLE_TEXT =3D "We connected to the website, but =
+didn\u2019t receive any data from it.";
+
+var L_ERROR_CODE_TEXT =3D "Error Code: ";
+
+var L_TLS_SSL_TEXT =3D "Make sure TLS and SSL protocols are enabled. Go =
+to Tools > Internet Options > Advanced > Settings > Security";
+
+// Used by new TLS error page
+var L_NONDEFAULT_SETTINGS_TEXT =3D "Your TLS security settings =
+aren\u2019t set to the defaults, which could also be causing this =
+error.";
+
+//used by insecurefallbackblock.htm
+var L_InsecureSSL3FallbackDetected_TEXT =3D "Error: Connecting to this =
+site has been blocked because it would require an insecure fallback to =
+SSL 3.0";
+
+//used by fallbacknavcancel.htm
+var L_InsecureSSL3FallbackDetected_IFRAME_TEXT =3D "Error: A resource =
+embedded in an iframe on this site has been blocked because it would =
+require an insecure fallback to SSL 3.0";
+
+// Used by IM DNS error page
+var L_THIS_PAGE_CANT_BE_DISPLAYED_TEXT =3D "This page can\u2019t be =
+displayed";
+var L_YOU_ARE_NOT_CONNECTED_TEXT =3D "You\u2019re not connected";
+
+// Used by IExtensionValidation error page
+var L_ActiveXUnsafe_TEXT =3D "%s blocked this website";
+var L_ActiveXUnsafe_Frame_TEXT =3D "%s blocked content on this website";
+var L_ActiveXUnsafe_Explain_TEXT =3D "%s blocked this site because it =
+might contain threats to your PC or your privacy.";
+var L_ActiveXUnsafe_Hosted_TEXT =3D "Hosted by: %s";
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: res://ieframe.dll/httpErrorPagesScripts.js
+
+=EF=BB=BF
+function isExternalUrlSafeForNavigation(urlStr)
+{
+var regEx =3D new RegExp("^(http(s?)|ftp|file)://", "i");
+return regEx.exec(urlStr);
+}
+function clickRefresh()
+{
+var location =3D window.location.href;
+var poundIndex =3D location.indexOf('#');
+if (poundIndex !=3D -1 && poundIndex+1 < location.length && =
+isExternalUrlSafeForNavigation(location.substring(poundIndex+1)))
+{
+window.location.replace(location.substring(poundIndex+1));
+}
+}
+function navCancelInit()
+{
+var location =3D window.location.href;
+var poundIndex =3D location.indexOf('#');
+if (poundIndex !=3D -1 && poundIndex+1 < location.length && =
+isExternalUrlSafeForNavigation(location.substring(poundIndex+1)))
+{
+var bElement =3D document.createElement("A");
+bElement.innerText =3D L_REFRESH_TEXT;
+bElement.href =3D 'javascript:clickRefresh()';
+navCancelContainer.appendChild(bElement);
+}
+else
+{
+var textNode =3D document.createTextNode(L_RELOAD_TEXT);
+navCancelContainer.appendChild(textNode);
+}
+}
+function getDisplayValue(elem)
+{
+var objStyle;
+if (window.getComputedStyle)
+{
+objStyle =3D window.getComputedStyle(elem);
+}
+else
+{
+objStyle =3D elem.currentStyle;
+}
+return objStyle.display;
+}
+function expandCollapse(elem, changeImage)
+{
+if (document.getElementById)
+{
+ecBlock =3D document.getElementById(elem);
+if (ecBlock !=3D undefined && ecBlock !=3D null)
+{
+if (changeImage)
+{
+elemImage =3D document.getElementById(elem + "Image");
+}
+if (!changeImage || (elemImage !=3D undefined && elemImage !=3D null))
+{
+var displayValue =3D getDisplayValue(ecBlock);
+if (displayValue =3D=3D "none" || displayValue =3D=3D null || =
+displayValue =3D=3D "")
+{
+ecBlock.style.display =3D "block";
+if (changeImage)
+{
+elemImage.src =3D "up.png";
+}
+}
+else if (displayValue =3D=3D "block")
+{
+ecBlock.style.display =3D "none";
+if (changeImage)
+{
+elemImage.src =3D "down.png";
+}
+}
+else
+{
+ecBlock.style.display =3D "block";
+if (changeImage)
+{
+elemImage.src =3D "up.png";
+}
+}
+}
+}
+}
+}
+function initHomepage()
+{
+DocURL=3Ddocument.location.href;
+var poundIndex =3D DocURL.indexOf('#');
+if (poundIndex !=3D -1 && poundIndex+1 < location.length && =
+isExternalUrlSafeForNavigation(location.substring(poundIndex+1)))
+{
+protocolIndex=3DDocURL.indexOf("://", 4);
+serverIndex=3DDocURL.indexOf("/", protocolIndex + 3);
+BeginURL=3DDocURL.indexOf("#",1) + 1;
+urlresult=3DDocURL.substring(BeginURL, serverIndex);
+if (protocolIndex - BeginURL > 7)
+urlresult=3D"";
+displayresult=3DDocURL.substring(protocolIndex + 3, serverIndex);
+}
+else
+{
+displayresult =3D "";
+urlresult =3D "";
+}
+var aElement =3D document.createElement("A");
+aElement.innerText =3D displayresult;
+aElement.href =3D urlresult;
+homepageContainer.appendChild(aElement);
+}
+function initConnectionStatus()
+{
+if (navigator.onLine)
+{
+checkConnection.innerText =3D L_CONNECTION_ON_TEXT;
+}
+else
+{
+checkConnection.innerText =3D L_CONNECTION_OFF_TEXT;
+}
+}
+function initGoBack()
+{
+if (history.length < 1)
+{
+var textNode =3D document.createTextNode(L_GOBACK_TEXT);
+goBackContainer.appendChild(textNode);
+}
+else
+{
+var bElement =3D document.createElement("A");
+bElement.innerText =3D L_GOBACK_TEXT ;
+bElement.href =3D "javascript:history.back();";
+goBackContainer.appendChild(bElement);
+}
+}
+function initMoreInfo(infoBlockID)
+{
+var bElement =3D document.createElement("A");
+bElement.innerText =3D L_MOREINFO_TEXT;
+bElement.href =3D "javascript:expandCollapse(\'infoBlockID\', true);";
+moreInfoContainer.appendChild(bElement);
+}
+function initOfflineUser(offlineUserID)
+{
+var bElement =3D document.createElement("A");
+bElement.innerText =3D L_OFFLINE_USERS_TEXT;
+bElement.href =3D "javascript:expandCollapse('offlineUserID', true);";
+offlineUserContainer.appendChild(bElement);
+}
+function initUnframeContent()
+{
+var location =3D window.location.href;
+var poundIndex =3D location.indexOf('#');
+if (poundIndex !=3D -1 && poundIndex+1 < location.length && =
+isExternalUrlSafeForNavigation(location.substring(poundIndex+1)))
+{
+document.getElementById("whatToDoIntro").style.display=3D"";
+document.getElementById("whatToDoBody").style.display=3D"";
+}
+}
+function removeNoScriptElements() {
+var noScriptElements =3D document.getElementsByTagName("noscript");
+for (var i =3D noScriptElements.length - 1; i >=3D 0; i--)
+{
+var bElement =3D noScriptElements[i];
+if (bElement !=3D=3D undefined && bElement !=3D=3D null)
+{
+bElement.parentNode.removeChild(bElement);
+}
+}
+}
+function makeNewWindow()
+{
+var location =3D window.location.href;
+var poundIndex =3D location.indexOf('#');
+if (poundIndex !=3D -1 && poundIndex+1 < location.length && =
+isExternalUrlSafeForNavigation(location.substring(poundIndex+1)))
+{
+window.open(location.substring(poundIndex+1));
+}
+}
+function setTabInfo(tabInfoBlockID)
+{
+var bPrevElement =3D document.getElementById("tabInfoTextID");
+var bPrevImage =3D document.getElementById("tabInfoBlockIDImage");
+if (bPrevElement !=3D null)
+{
+tabInfoContainer.removeChild(bPrevElement);
+}
+if (bPrevImage !=3D null)
+{
+tabImageContainer.removeChild(bPrevImage);
+}
+var bElement =3D document.createElement("A");
+var bImageElement =3D document.createElement("IMG");
+var ecBlock =3D document.getElementById(tabInfoBlockID);
+if ((ecBlock !=3D undefined && ecBlock !=3D null) &&
+(getDisplayValue(ecBlock) =3D=3D "none" || getDisplayValue(ecBlock) =
+=3D=3D null || getDisplayValue(ecBlock) =3D=3D ""))
+{
+bElement.innerText =3D L_SHOW_HOTKEYS_TEXT;
+bImageElement.alt =3D L_SHOW_HOTKEYS_TEXT;
+bImageElement.src=3D"down.png";
+}
+else
+{
+bElement.innerText =3D L_HIDE_HOTKEYS_TEXT;
+bImageElement.alt =3D L_HIDE_HOTKEYS_TEXT;
+bImageElement.src=3D"up.png";
+}
+bElement.id =3D "tabInfoTextID";
+bElement.href =3D "javascript:expandCollapse(\'tabInfoBlockID\', false); =
+setTabInfo('tabInfoBlockID');";
+bImageElement.id=3D"tabInfoBlockIDImage";
+bImageElement.border=3D"0";
+bImageElement.className=3D"actionIcon";
+tabInfoContainer.appendChild(bElement);
+tabImageContainer.appendChild(bImageElement);
+}
+function launchInternetOptions()
+{
+window.external.msLaunchInternetOptions();
+}
+function diagnoseConnection()
+{
+window.external.DiagnoseConnection();
+}
+function diagnoseConnectionAndRefresh()
+{
+window.external.DiagnoseConnection();
+if (navigator.onLine)
+{
+clickRefresh();
+}
+}
+function getInfo()
+{
+checkConnection();
+if (document.addEventListener)
+{
+addEventListener("offline", reportConnectionEvent, false);
+}
+else
+{
+attachEvent("onoffline", reportConnectionEvent);
+}
+document.body.ononline =3D reportConnectionEvent;
+document.body.onoffline =3D reportConnectionEvent;
+}
+function checkConnection()
+{
+var newHeading =3D document.getElementById("mainTitle");
+var notConnectedTasks =3D document.getElementById("notConnectedTasks");
+var cantDisplayTasks =3D document.getElementById("cantDisplayTasks");
+if (navigator.onLine)
+{
+document.title =3D L_INTERNET_CONNECTED_TEXT;
+newHeading.textContent =3D L_INTERNET_CONNECTED_TEXT;
+addURL();
+getErrorStatus();
+notConnectedTasks.style.display =3D "none";
+cantDisplayTasks.style.display =3D "";
+}
+else
+{
+document.title =3D L_INTERNET_NOT_CONNECTED_TEXT;
+newHeading.textContent =3D L_INTERNET_NOT_CONNECTED_TEXT;
+notConnectedTasks.style.display =3D "";
+cantDisplayTasks.style.display =3D "none";
+}
+}
+function reportConnectionEvent(e)
+{
+if (!e) e =3D window.event;
+if ('online' =3D=3D e.type)
+{
+setTimeout ( "clickRefresh()", 1000 );
+}
+else if ('offline' =3D=3D e.type)
+{
+checkConnection();
+}
+else
+{
+checkConnection();
+}
+}
+function addURL()
+{
+var urlResult =3D "";
+var DocURL =3D document.location.href;
+var urlPlaceholder =3D document.getElementById("webpage");
+var beginIndex =3D DocURL.indexOf('#') + 1;
+if (DocURL.indexOf("file://", beginIndex) =3D=3D -1)
+{
+var protocolEndIndex =3D DocURL.indexOf("://", beginIndex);
+var endIndex=3DDocURL.indexOf("/", protocolEndIndex + 3);
+urlResult =3D DocURL.substring(beginIndex, endIndex);
+urlPlaceholder.innerText =3D urlResult + " ";
+var cantDisplayTasks =3D document.getElementById("cantDisplayTasks");
+if (cantDisplayTasks) {
+var searchTask =3D document.getElementById("task1-2");
+var searchString =3D searchTask.innerText;
+var bingLink =3D document.createElement("a");
+bingLink.href =3D "https://www.bing.com/search?q=3D" + =
+encodeURIComponent(urlResult) + "&PC=3DIENEPB";
+bingLink.innerHTML =3D searchString;
+searchTask.innerHTML =3D "";
+searchTask.appendChild(bingLink);
+}
+}
+}
+function addDomainName()
+{
+var domainNamePlaceholder =3D document.getElementById("DomainName");
+domainNamePlaceholder.innerText =3D findValue("DomainName=3D") + " ";
+}
+function addProxyDetail()
+{
+var proxyDetailPlaceholder =3D document.getElementById("ProxyDetail");
+proxyDetailPlaceholder.innerText =3D findValue("ProxyDetail=3D");
+}
+function findValue(key)
+{
+var value =3D '';
+DocQuery =3D document.URL;
+BeginString =3D DocQuery.indexOf(key);
+if (BeginString > 0)
+{
+BeginString +=3D key.length;
+var ampLocation =3D DocQuery.indexOf("&", BeginString);
+var poundLocation =3D DocQuery.indexOf("#", BeginString);
+var EndString =3D 0;
+if (ampLocation > 0 && poundLocation > 0)
+{
+EndString =3D Math.min(ampLocation, poundLocation);
+}
+else if (ampLocation > 0)
+{
+EndString =3D ampLocation;
+}
+else if (poundLocation > 0)
+{
+EndString =3D poundLocation;
+}
+if (EndString > 0)
+{
+value =3D DocQuery.substring(BeginString, EndString);
+}
+else
+{
+value =3D DocQuery.substring(BeginString);
+}
+}
+return value;
+}
+function isHTTPS(cantDisplayTasks)
+{
+var DocURL =3D document.location.href;
+var poundIndex =3D DocURL.indexOf('#');
+var protocolIndex =3D DocURL.indexOf("https://", poundIndex);
+if (protocolIndex>poundIndex)
+{
+var bElement =3D document.createElement("li");
+bElement.textContent =3D L_TLS_SSL_TEXT;
+cantDisplayTasks.appendChild(bElement);
+}
+}
+function getErrorStatus() {
+var errorStatus =3D findValue("ErrorStatus=3D");
+if (errorStatus)
+{
+var errorCode =3D "";
+var subError =3D document.getElementById("subError");
+var errorCodes =3D {
+"0x800C0008": { name: "INET_E_DOWNLOAD_FAILURE", description: =
+L_DOWNLOAD_FAILURE_TEXT },
+"0x800C0014": { name: "INET_E_REDIRECT_FAILED", description: =
+L_REDIRECT_FAILED_TEXT },
+"0x800C000B": { name: "INET_E_CONNECTION_TIMEOUT", description: =
+L_CONNECTION_TIMEOUT_TEXT },
+"0x800C0007": { name: "INET_E_DATA_NOT_AVAILABLE", description: =
+L_DATA_NOT_AVAILABLE_TEXT },
+"0x800C0004": { name: "INET_E_CANNOT_CONNECT", description: null },
+"0x800C000E": { name: "INET_E_SECURITY_PROBLEM", description: null },
+"0x800C0006": { name: "INET_E_OBJECT_NOT_FOUND", description: null },
+"0x800C0002": { name: "INET_E_INVALID_URL", description: null }
+};
+var ERROR_SUCCESS =3D 0;
+var WSAECONNRESET =3D 10054;
+var ERROR_TIMEOUT =3D 1460;
+var DNS_ERROR_RCODE_NAME_ERROR =3D 9003;
+var INET_E_RESOURCE_NOT_FOUND =3D "0x800C0005";
+if (errorStatus =3D=3D=3D INET_E_RESOURCE_NOT_FOUND)
+{
+errorCode =3D "INET_E_RESOURCE_NOT_FOUND";
+var dnsString =3D findValue("DNSError=3D");
+if (dnsString)
+{
+var dnsStatus =3D Number(dnsString);
+if (dnsStatus =3D=3D=3D WSAECONNRESET)
+{
+errorString =3D L_RESOURCE_NOT_FOUND_WSAECONNRESET_TEXT;
+}
+else if (dnsStatus =3D=3D=3D ERROR_TIMEOUT)
+{
+errorString =3D L_RESOURCE_NOT_FOUND_ERROR_TIMEOUT_TEXT;
+}
+else if (dnsStatus =3D=3D=3D ERROR_SUCCESS)
+{
+errorString =3D L_RESOURCE_NOT_FOUND_ERROR_SUCCESS_TEXT;
+}
+else if (dnsStatus =3D=3D=3D DNS_ERROR_RCODE_NAME_ERROR)
+{
+errorString =3D L_RESOURCE_NOT_FOUND_RCODE_NAME_ERROR_TEXT;
+}
+else
+{
+errorString =3D L_RESOURCE_NOT_FOUND_ERROR_OTHER_TEXT;
+}
+}
+else
+{
+errorString =3D L_RESOURCE_NOT_FOUND_TEXT;
+}
+document.getElementById("ErrorCode").innerHTML =3D L_ERROR_CODE_TEXT + =
+errorCode;
+subError.innerHTML =3D errorString + "<br>";
+}
+else if (errorStatus in errorCodes)
+{
+var error =3D errorCodes[errorStatus];
+document.getElementById("ErrorCode").innerHTML =3D L_ERROR_CODE_TEXT + =
+error.name;
+if (error.description)
+{
+subError.innerHTML =3D error.description + "<br>";
+}
+}
+}
+}
+function checkTLSError()
+{
+var protocolSettings =3D Number(findValue("SecureProtocol=3D"));
+var defaultSettings =3D 2688;
+if (protocolSettings !=3D=3D defaultSettings)
+{
+document.getElementById("subError").innerHTML +=3D "<br><br>" + =
+L_NONDEFAULT_SETTINGS_TEXT;
+document.getElementById("internetOptions").className =3D =
+document.getElementById("internetOptions").className.replace(/(?:^|\s)hid=
+den(?!\S)/g, '');
+}
+}
+
+------=_NextPart_000_0000_01D46ACD.CAE0FF50--
